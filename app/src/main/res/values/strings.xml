@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC Manager</string>
+    <string name="nfcBtn">Leer NFC</string>
+    <string name="not_support">Tu dispositivo no soporta NFC</string>
+</resources>
